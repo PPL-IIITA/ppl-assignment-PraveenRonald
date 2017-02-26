@@ -1,0 +1,13 @@
+G0 2 9 91 Most_intelligent
+G1 9 18 30 Most_intelligent
+G2 6 17 28 Most_attractive
+G3 8 16 28 Most_rich
+G4 1 10 44 Most_rich
+G5 9 23 9 Most_rich
+G6 2 20 68 Most_rich
+G7 3 27 17 Most_attractive
+G8 9 28 83 Most_rich
+G9 7 11 47 Most_intelligent
+rich
+_intelligent
+telligent
