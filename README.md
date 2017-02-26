@@ -15,7 +15,9 @@ g++ Compiler.
 Building and running the codes
 
 Question1
+
 g++ q1.cpp alloc.cpp boy.cpp girl.cpp
+
 ./a.out
 
 This will print the relationships in the console and a log.txt file will be generated containing the description.
