@@ -78,11 +78,11 @@ void make_couple(boy a[],girl g[])
 	for(x=0;x<j;x++)
 	{
     	if(g[x].get_commitstatus()==true)
-		continue;
+	continue;
 		if(g[x].get_criteria().compare("Most_attractive")==0)
-        {
+        	{
 			int max=0,index = -1;
-			for(y=0;y<j;y++)
+			for(y=0;y<i;y++)
 			{
 				if(a[y].check_dating_req(a[y],g[x])&&(a[y].get_commitstatus()==false)&&(a[y].get_attract())>=max)
 				{
@@ -98,10 +98,10 @@ void make_couple(boy a[],girl g[])
 				file <<a[index].getname() << " commited to " << g[x].getname()<<endl;
 			}
 		}
-        else if(g[x].get_criteria().compare("Most_intelligent")==0)
-        {
+        	else if(g[x].get_criteria().compare("Most_intelligent")==0)
+       		{
 			int max=0,index = -1;
-			for(y=0;y<j;y++)
+			for(y=0;y<i;y++)
 			{
 				if(a[y].check_dating_req(a[y],g[x])&&(a[y].get_commitstatus()==false)&&(a[y].get_intel())>=max)
 				{
@@ -117,10 +117,10 @@ void make_couple(boy a[],girl g[])
 				file <<a[index].getname() << " commited to " << g[x].getname()<<endl;
 			}
 		}
-        else
-        {
+        	else
+        	{
 			int max=0,index = -1;
-			for(y=0;y<j;y++)
+			for(y=0;y<i;y++)
 			{
 				if(a[y].check_dating_req(a[y],g[x])&&(a[y].get_commitstatus()==false)&&a[y].get_budget()>=max)
 				{
@@ -137,4 +137,5 @@ void make_couple(boy a[],girl g[])
 			}
 		}
 	}
+	file.close();
 }
