@@ -32,3 +32,39 @@ g++ q2.cpp exchange.cpp couple.cpp gift.cpp girl.cpp boy.cpp
 a in case of windows in cmd
 
 ./a.out in ubuntu
+
+This will print k most happiest and compatible couples where is taken as input from user
+
+Question4
+
+g++ q4.cpp exchange.cpp couple.cpp gift.cpp girl.cpp boy.cpp
+
+a in case of windows 10 in cmd
+
+./a.out in ubuntu
+
+All girls boys gifts couple and breakup data is stored in respective name .txt files
+
+Question5
+
+g++ q5.cpp utility.cpp newallocation.cpp couple.cpp gift.cpp girl.cpp boy.cpp
+
+a in case of windows 10 in cmd
+
+./a.out in ubuntu
+
+Question6
+
+g++ q6.cpp exchange.cpp couple.cpp gift.cpp girl.cpp boy.cpp
+
+a in case of windows 10 in cmd
+
+./a.out in ubuntu
+
+Question7
+
+g++ q7.cpp allocate.cpp find.cpp couple.cpp girl.cpp boy.cpp
+
+a in case of windows 10 in cmd
+
+./a.out in ubuntu
