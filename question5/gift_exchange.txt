@@ -1,0 +1,120 @@
+The_Geek B60has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG9worth 90
+
+The_Generous B11has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG48worth 105
+
+The_Generous B35has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG50worth 135
+
+The_Miser B71has givenEssential_Gift(15),gift toG51worth 15
+
+The_Generous B38has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG57worth 120
+
+The_Geek B0has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG11worth 150
+
+The_Miser B30has givenEssential_Gift(15),gift toG17worth 15
+
+The_Generous B78has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG5worth 135
+
+The_Generous B28has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG6worth 90
+
+The_Miser B73has givenEssential_Gift(15),gift toG3worth 15
+
+The_Miser B45has givenEssential_Gift(15),gift toG32worth 15
+
+The_Miser B4has givenEssential_Gift(15),gift toG28worth 15
+
+The_Geek B76has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG12worth 120
+
+The_Generous B47has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG54worth 150
+
+The_Geek B81has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG18worth 105
+
+The_Generous B27has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG30worth 45
+
+The_Geek B12has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG49worth 105
+
+The_Miser B89has givenEssential_Gift(15),gift toG16worth 15
+
+The_Geek B5has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG4worth 135
+
+The_Generous B15has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG43worth 135
+
+The_Geek B49has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG31worth 90
+
+The_Miser B31has givenEssential_Gift(15),gift toG10worth 15
+
+The_Generous B87has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG37worth 45
+
+The_Generous B58has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG22worth 150
+
+The_Generous B53has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG44worth 90
+
+The_Generous B2has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG45worth 135
+
+The_Miser B83has givenEssential_Gift(15),gift toG59worth 15
+
+The_Miser B61has givenEssential_Gift(15),gift toG21worth 15
+
+The_Geek B74has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG1worth 135
+
+The_Miser B56has givenEssential_Gift(15),gift toG29worth 15
+
+The_Miser B79has givenEssential_Gift(15),gift toG23worth 15
+
+The_Generous B13has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG39worth 90
+
+The_Generous B88has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG58worth 60
+
+The_Geek B80has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG41worth 45
+
+The_Generous B62has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG36worth 45
+
+The_Geek B42has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG52worth 75
+
+The_Miser B54has givenEssential_Gift(15),gift toG46worth 15
+
+The_Generous B32has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG19worth 90
+
+The_Miser B17has givenEssential_Gift(15),gift toG38worth 15
+
+The_Generous B10has givenEssential_Gift(15),Essential_Gift(15),gift toG15worth 30
+
+The_Generous B6has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG40worth 75
+
+The_Miser B21has givenEssential_Gift(15),gift toG24worth 15
+
+The_Miser B46has givengift toG26worth 0
+
+The_Generous B36has givenEssential_Gift(15),gift toG14worth 15
+
+The_Geek B41has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG34worth 120
+
+The_Geek B29has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG56worth 90
+
+The_Generous B68has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG13worth 90
+
+The_Geek B34has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG42worth 105
+
+The_Generous B69has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG25worth 90
+
+The_Geek B40has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG33worth 120
+
+The_Geek B16has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG20worth 105
+
+The_Miser B67has givengift toG55worth 0
+
+The_Miser B48has givengift toG27worth 0
+
+The_Geek B14has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG0worth 45
+
+The_Generous B84has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG35worth 120
+
+The_Miser B37has givengift toG8worth 0
+
+The_Miser B20has givengift toG2worth 0
+
+The_Geek B9has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG7worth 60
+
+The_Geek B3has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG47worth 105
+
+The_Geek B19has givenEssential_Gift(15),Essential_Gift(15),Essential_Gift(15),Essential_Gift(15),gift toG53worth 60
+

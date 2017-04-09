@@ -1,0 +1,102 @@
+Gift0 Essential_Gift 15 340 0
+Gift1 Luxury_Gift 17 25 1 13
+Gift2 Luxury_Gift 23 34 1 17
+Gift3 Essential_Gift 17 260 0
+Gift4 Essential_Gift 16 340 0
+Gift5 Utility_Gift 18 30 63 62
+Gift6 Essential_Gift 21 260 0
+Gift7 Utility_Gift 21 33 80 91
+Gift8 Luxury_Gift 17 26 2 14
+Gift9 Essential_Gift 24 310 0
+Gift10 Essential_Gift 19 340 0
+Gift11 Utility_Gift 21 30 90 55
+Gift12 Utility_Gift 15 31 53 94
+Gift13 Essential_Gift 19 310 0
+Gift14 Luxury_Gift 15 27 10 11
+Gift15 Luxury_Gift 19 27 1 12
+Gift16 Luxury_Gift 21 27 2 10
+Gift17 Essential_Gift 18 260 0
+Gift18 Essential_Gift 16 290 0
+Gift19 Utility_Gift 18 25 50 115
+Gift20 Utility_Gift 24 34 51 91
+Gift21 Essential_Gift 15 250 0
+Gift22 Essential_Gift 22 340 0
+Gift23 Essential_Gift 18 260 0
+Gift24 Luxury_Gift 19 25 9 17
+Gift25 Essential_Gift 21 300 0
+Gift26 Luxury_Gift 24 33 8 15
+Gift27 Utility_Gift 19 29 80 50
+Gift28 Utility_Gift 17 33 74 113
+Gift29 Essential_Gift 20 320 0
+Gift30 Luxury_Gift 16 34 8 16
+Gift31 Utility_Gift 24 32 81 71
+Gift32 Utility_Gift 19 27 78 77
+Gift33 Essential_Gift 22 260 0
+Gift34 Utility_Gift 15 28 54 73
+Gift35 Luxury_Gift 15 29 4 14
+Gift36 Essential_Gift 23 270 0
+Gift37 Luxury_Gift 22 27 2 12
+Gift38 Essential_Gift 15 270 0
+Gift39 Utility_Gift 15 25 64 107
+Gift40 Utility_Gift 18 30 95 115
+Gift41 Utility_Gift 15 27 90 98
+Gift42 Essential_Gift 17 340 0
+Gift43 Luxury_Gift 15 33 8 16
+Gift44 Luxury_Gift 19 29 2 18
+Gift45 Utility_Gift 21 25 54 67
+Gift46 Essential_Gift 24 270 0
+Gift47 Utility_Gift 20 34 89 116
+Gift48 Luxury_Gift 22 34 5 19
+Gift49 Essential_Gift 19 330 0
+Gift50 Essential_Gift 19 330 0
+Gift51 Luxury_Gift 20 25 7 16
+Gift52 Utility_Gift 18 30 62 117
+Gift53 Luxury_Gift 17 34 4 15
+Gift54 Luxury_Gift 19 29 1 16
+Gift55 Utility_Gift 16 34 89 79
+Gift56 Utility_Gift 15 26 59 67
+Gift57 Essential_Gift 21 310 0
+Gift58 Utility_Gift 21 31 98 59
+Gift59 Utility_Gift 17 31 54 72
+Gift60 Utility_Gift 18 26 70 114
+Gift61 Luxury_Gift 23 34 9 18
+Gift62 Luxury_Gift 20 33 1 17
+Gift63 Utility_Gift 16 34 83 85
+Gift64 Utility_Gift 20 26 93 95
+Gift65 Essential_Gift 23 320 0
+Gift66 Luxury_Gift 23 27 7 14
+Gift67 Utility_Gift 22 26 60 84
+Gift68 Luxury_Gift 20 33 9 10
+Gift69 Essential_Gift 19 300 0
+Gift70 Utility_Gift 16 29 69 75
+Gift71 Essential_Gift 20 280 0
+Gift72 Luxury_Gift 18 34 7 19
+Gift73 Essential_Gift 18 300 0
+Gift74 Essential_Gift 21 320 0
+Gift75 Utility_Gift 18 26 60 103
+Gift76 Utility_Gift 15 32 67 71
+Gift77 Utility_Gift 24 34 86 59
+Gift78 Utility_Gift 24 27 54 83
+Gift79 Essential_Gift 21 280 0
+Gift80 Luxury_Gift 20 33 8 10
+Gift81 Luxury_Gift 16 30 9 14
+Gift82 Utility_Gift 18 27 59 90
+Gift83 Luxury_Gift 16 34 9 15
+Gift84 Luxury_Gift 22 34 6 16
+Gift85 Utility_Gift 19 31 52 92
+Gift86 Utility_Gift 24 33 61 85
+Gift87 Luxury_Gift 19 26 4 13
+Gift88 Luxury_Gift 21 30 2 17
+Gift89 Essential_Gift 19 310 0
+Gift90 Essential_Gift 19 330 0
+Gift91 Essential_Gift 19 290 0
+Gift92 Essential_Gift 22 280 0
+Gift93 Luxury_Gift 18 34 3 14
+Gift94 Utility_Gift 15 26 68 73
+Gift95 Essential_Gift 23 270 0
+Gift96 Utility_Gift 23 31 56 78
+Gift97 Utility_Gift 17 31 73 51
+Gift98 Luxury_Gift 23 34 10 14
+Gift99 Utility_Gift 16 30 62 95
+ 91
+29 83 54
