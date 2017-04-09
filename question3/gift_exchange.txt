@@ -1,0 +1,120 @@
+The_Geek B69has givenLuxury_Gift(20),Utility_Gift(23),gift toG0worth 43
+
+The_Miser B86has givengift toG1worth 0
+
+The_Geek B25has givenLuxury_Gift(20),Utility_Gift(23),gift toG2worth 43
+
+The_Generous B82has givenLuxury_Gift(20),gift toG3worth 20
+
+The_Geek B29has givenLuxury_Gift(20),gift toG4worth 20
+
+The_Geek B88has givenLuxury_Gift(20),Utility_Gift(23),gift toG5worth 43
+
+The_Miser B22has givenLuxury_Gift(20),gift toG6worth 20
+
+The_Geek B12has givenLuxury_Gift(20),gift toG7worth 20
+
+The_Generous B80has givenLuxury_Gift(20),gift toG8worth 20
+
+The_Generous B74has givenLuxury_Gift(20),gift toG9worth 20
+
+The_Generous B4has givenLuxury_Gift(20),Utility_Gift(23),gift toG10worth 43
+
+The_Geek B15has givenLuxury_Gift(20),Utility_Gift(23),gift toG11worth 43
+
+The_Generous B31has givenLuxury_Gift(20),gift toG12worth 20
+
+The_Miser B24has givenLuxury_Gift(20),gift toG13worth 20
+
+The_Generous B16has givenLuxury_Gift(20),Utility_Gift(23),gift toG14worth 43
+
+The_Generous B73has givenLuxury_Gift(20),gift toG15worth 20
+
+The_Generous B81has givenLuxury_Gift(20),Utility_Gift(23),gift toG16worth 43
+
+The_Miser B14has givengift toG17worth 0
+
+The_Miser B8has givenLuxury_Gift(20),gift toG18worth 20
+
+The_Generous B44has givenLuxury_Gift(20),gift toG19worth 20
+
+The_Generous B35has givenLuxury_Gift(20),Utility_Gift(23),gift toG20worth 43
+
+The_Generous B78has givenLuxury_Gift(20),gift toG21worth 20
+
+The_Generous B85has givenLuxury_Gift(20),Utility_Gift(23),gift toG22worth 43
+
+The_Miser B32has givengift toG23worth 0
+
+The_Generous B34has givenLuxury_Gift(20),Utility_Gift(23),gift toG24worth 43
+
+The_Generous B47has givenLuxury_Gift(20),Utility_Gift(23),gift toG25worth 43
+
+The_Generous B45has givenLuxury_Gift(20),gift toG26worth 20
+
+The_Miser B27has givengift toG27worth 0
+
+The_Geek B84has givenLuxury_Gift(20),Utility_Gift(23),gift toG28worth 43
+
+The_Geek B61has givenLuxury_Gift(20),Utility_Gift(23),gift toG29worth 43
+
+The_Generous B37has givenLuxury_Gift(20),Utility_Gift(23),gift toG30worth 43
+
+The_Geek B19has givenLuxury_Gift(20),gift toG31worth 20
+
+The_Geek B30has givenLuxury_Gift(20),gift toG32worth 20
+
+The_Miser B39has givenLuxury_Gift(20),gift toG33worth 20
+
+The_Miser B72has givengift toG34worth 0
+
+The_Generous B75has givenLuxury_Gift(20),gift toG35worth 20
+
+The_Geek B9has givenLuxury_Gift(20),Utility_Gift(23),gift toG36worth 43
+
+The_Generous B63has givenLuxury_Gift(20),Utility_Gift(23),gift toG37worth 43
+
+The_Miser B10has givengift toG38worth 0
+
+The_Generous B43has givenLuxury_Gift(20),Utility_Gift(23),gift toG39worth 43
+
+The_Miser B5has givenLuxury_Gift(20),gift toG40worth 20
+
+The_Generous B7has givenLuxury_Gift(20),Utility_Gift(23),gift toG41worth 43
+
+The_Generous B83has givenLuxury_Gift(20),Utility_Gift(23),gift toG42worth 43
+
+The_Generous B50has givenLuxury_Gift(20),gift toG43worth 20
+
+The_Generous B52has givenLuxury_Gift(20),Utility_Gift(23),gift toG44worth 43
+
+The_Geek B23has givenLuxury_Gift(20),Utility_Gift(23),gift toG45worth 43
+
+The_Miser B1has givengift toG46worth 0
+
+The_Geek B77has givenLuxury_Gift(20),gift toG47worth 20
+
+The_Geek B54has givenLuxury_Gift(20),gift toG48worth 20
+
+The_Miser B89has givenLuxury_Gift(20),gift toG49worth 20
+
+The_Generous B49has givenLuxury_Gift(20),Utility_Gift(23),gift toG50worth 43
+
+The_Geek B0has givenLuxury_Gift(20),Utility_Gift(23),gift toG51worth 43
+
+The_Miser B62has givengift toG52worth 0
+
+The_Generous B21has givenLuxury_Gift(20),gift toG53worth 20
+
+The_Generous B20has givenLuxury_Gift(20),gift toG54worth 20
+
+The_Generous B11has givenLuxury_Gift(20),gift toG55worth 20
+
+The_Miser B76has givengift toG56worth 0
+
+The_Miser B58has givengift toG57worth 0
+
+The_Miser B87has givengift toG58worth 0
+
+The_Generous B53has givenLuxury_Gift(20),gift toG59worth 20
+
