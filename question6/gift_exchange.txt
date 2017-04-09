@@ -1,0 +1,317 @@
+The_Geek B33has givenEssential_Gift(24),gift toG47worth 24
+
+The_Generous B42has givenEssential_Gift(24),gift toG41worth 24
+
+The_Generous B62has givenEssential_Gift(24),gift toG38worth 24
+
+The_Generous B30has givenEssential_Gift(24),Essential_Gift(24),gift toG15worth 48
+
+The_Generous B31has givengift toG29worth 0
+
+The_Miser B85has givenEssential_Gift(24),gift toG48worth 24
+
+The_Generous B52has givenEssential_Gift(24),gift toG2worth 24
+
+The_Miser B16has givengift toG34worth 0
+
+The_Miser B84has givenEssential_Gift(24),gift toG12worth 24
+
+The_Miser B21has givenEssential_Gift(24),gift toG37worth 24
+
+The_Miser B11has givengift toG26worth 0
+
+The_Generous B71has givenEssential_Gift(24),Essential_Gift(24),gift toG20worth 48
+
+The_Generous B51has givenEssential_Gift(24),Essential_Gift(24),gift toG55worth 48
+
+The_Generous B43has givenEssential_Gift(24),Essential_Gift(24),gift toG25worth 48
+
+The_Generous B5has givenEssential_Gift(24),Essential_Gift(24),gift toG8worth 48
+
+The_Generous B9has givenEssential_Gift(24),Essential_Gift(24),gift toG16worth 48
+
+The_Generous B46has givenEssential_Gift(24),Essential_Gift(24),gift toG31worth 48
+
+The_Generous B17has givenEssential_Gift(24),Essential_Gift(24),gift toG39worth 48
+
+The_Miser B79has givengift toG42worth 0
+
+The_Generous B45has givenEssential_Gift(24),Essential_Gift(24),gift toG45worth 48
+
+The_Miser B3has givenEssential_Gift(24),gift toG58worth 24
+
+The_Generous B24has givenEssential_Gift(24),Essential_Gift(24),gift toG40worth 48
+
+The_Generous B72has givenEssential_Gift(24),Essential_Gift(24),gift toG14worth 48
+
+The_Generous B55has givenEssential_Gift(24),Essential_Gift(24),gift toG10worth 48
+
+The_Miser B2has givengift toG51worth 0
+
+The_Miser B75has givengift toG18worth 0
+
+The_Miser B25has givengift toG46worth 0
+
+The_Miser B12has givengift toG23worth 0
+
+The_Generous B44has givenEssential_Gift(24),Essential_Gift(24),gift toG33worth 48
+
+The_Miser B70has givengift toG4worth 0
+
+The_Miser B66has givengift toG30worth 0
+
+The_Generous B28has givenEssential_Gift(24),Essential_Gift(24),gift toG57worth 48
+
+The_Miser B13has givengift toG28worth 0
+
+The_Miser B88has givengift toG43worth 0
+
+The_Miser B39has givengift toG3worth 0
+
+The_Miser B14has givengift toG56worth 0
+
+The_Geek B83has givenEssential_Gift(24),gift toG53worth 24
+
+The_Miser B60has givengift toG7worth 0
+
+The_Miser B50has givengift toG24worth 0
+
+The_Miser B7has givengift toG6worth 0
+
+The_Geek B74has givenEssential_Gift(24),gift toG9worth 24
+
+The_Generous B27has givenEssential_Gift(24),gift toG41worth 24
+
+The_Geek B35has givenEssential_Gift(24),Essential_Gift(24),gift toG22worth 48
+
+The_Geek B20has givenEssential_Gift(24),gift toG35worth 24
+
+The_Geek B65has givenEssential_Gift(24),gift toG11worth 24
+
+The_Geek B47has givenEssential_Gift(24),Essential_Gift(24),gift toG19worth 48
+
+The_Geek B76has givenEssential_Gift(24),gift toG0worth 24
+
+The_Generous B42has givenEssential_Gift(24),gift toG47worth 24
+
+The_Geek B26has givenEssential_Gift(24),Essential_Gift(24),gift toG52worth 48
+
+The_Geek B23has givenEssential_Gift(24),Essential_Gift(24),gift toG13worth 48
+
+The_Geek B57has givenEssential_Gift(24),gift toG21worth 24
+
+The_Geek B38has givenEssential_Gift(24),gift toG59worth 24
+
+The_Geek B86has givenEssential_Gift(24),Essential_Gift(24),gift toG44worth 48
+
+The_Geek B34has givenEssential_Gift(24),Essential_Gift(24),gift toG54worth 48
+
+The_Geek B56has givenEssential_Gift(24),Essential_Gift(24),gift toG17worth 48
+
+The_Geek B73has givenEssential_Gift(24),Essential_Gift(24),gift toG27worth 48
+
+The_Geek B29has givenEssential_Gift(24),gift toG5worth 24
+
+The_Geek B48has givenEssential_Gift(24),gift toG32worth 24
+
+The_Geek B49has givenEssential_Gift(24),Essential_Gift(24),gift toG1worth 48
+
+The_Geek B81has givenEssential_Gift(24),Essential_Gift(24),gift toG50worth 48
+
+orth 24
+
+(22),gift toG48worth 38
+
+The_Geek B16has givenLuxury_Gift(16),gift toG57worth 16
+
+),gift toG57worth 16
+
+th 16
+
+38
+
+),gift toG59worth 17
+
+
+The_Geek B33has givenEssential_Gift(20),gift toG35worth 20
+
+The_Geek B60has givenEssential_Gift(20),Essential_Gift(20),gift toG56worth 40
+
+nLuxury_Gift(17),Utility_Gift(15),gift toG59worth 32
+
+Gift(19),Utility_Gift(15),gift toG59worth 34
+
+ft toG21worth 44
+
+
+enLuxury_Gift(15),Utility_Gift(19),Luxury_Gift(16),gift toG38worth 50
+
+The_Geek B9has givenLuxury_Gift(15),Utility_Gift(19),Luxury_Gift(16),gift toG30worth 50
+
+
+The_Geek B41has givenUtility_Gift(15),Utility_Gift(16),Essential_Gift(18),gift toG41worth 49
+
+ity_Gift(15),Utility_Gift(16),gift toG59worth 31
+
+ft(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givengift toworth 0
+
+ has givenUtility_Gift(15),Luxury_Gift(21),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),Essential_Gift(24),gift toworth 2388
+
+ has givengift toworth 0
+
+0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
+ has givenLuxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),Luxury(0),gift toworth 0
+
