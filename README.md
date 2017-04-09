@@ -3,7 +3,7 @@ ppl-assignment-PraveenRonald created by GitHub Classroom
 
 PRAVEEN RONALD TUDU IIT2015092
 
-The repository contains one folder q1 which contains the Source Codes, Class Diagram and the Documentations. The codes are written in cpp.
+The repository contains  folder question1-question7 which contains the Source Codes, Class Diagram and the Documentations. The codes are written in cpp.
 # Getting Started
 
 The Project was built in: ubuntu 16.04 and windows 10
@@ -33,7 +33,7 @@ a in case of windows in cmd
 
 ./a.out in ubuntu
 
-This will print k most happiest and compatible couples where is taken as input from user
+This will print k most happiest and compatible couples where k is taken as input from user
 
 Question4
 
