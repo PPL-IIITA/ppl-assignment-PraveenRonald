@@ -25,7 +25,7 @@ g++ q1.cpp allocate.cpp boy.cpp girl.cpp
 
 This will print the relationships in the console and a log.txt file will be generated containing the description.
 
-Question2
+Question2-Question3
 
 g++ q2.cpp exchange.cpp couple.cpp gift.cpp girl.cpp boy.cpp
 
